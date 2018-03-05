@@ -1,0 +1,10 @@
+Test for period
+Test news page TODO method on how to upload a file using automation
+Test assignment
+Test for exam
+Test for note
+
+TODO create a common StepDef for basePage
+
+**********bug***********
+bug on period page on the date picker
